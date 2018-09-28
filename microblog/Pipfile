@@ -7,12 +7,13 @@ name = "pypi"
 python_version = "3.5"
 
 [packages]
-click = "==7.0"
-itsdangerous = "==0.24"
-python-dotenv = "==0.9.1"
-Flask = "==1.0.2"
-"Jinja2" = "==2.10"
-MarkupSafe = "==1.0"
-Werkzeug = "==0.14.1"
+click = "*"
+itsdangerous = "*"
+python-dotenv = "*"
+Flask = "*"
+"Jinja2" = "*"
+MarkupSafe = "*"
+Werkzeug = "*"
+flask-wtf = "*"
 
 [dev-packages]
