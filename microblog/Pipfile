@@ -15,5 +15,7 @@ Flask = "*"
 MarkupSafe = "*"
 Werkzeug = "*"
 flask-wtf = "*"
+flask-sqlalchemy = "*"
+flask-migrate = "*"
 
 [dev-packages]
